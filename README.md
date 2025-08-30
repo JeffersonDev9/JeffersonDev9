@@ -23,8 +23,8 @@
 
 🛠️ **Ferramentas & Ambiente:**
 
-* Visual Studio Code
-* Falcon C++
+ [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/) 
+[![Falcon](https://img.shields.io/badge/-Falcon-1E1E1E?style=flat\&logo=falcon\&logoColor=white)](#)
 
 ---
 
@@ -37,10 +37,9 @@
 
 ## 📫 Bora trocar uma ideia?
 
-[![Email](https://img.shields.io/badge/Email-jeffersonruan822%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeffersonruan822@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Ruan-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-ruan-068255367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:jeffersonruan822@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-ruan-068255367/)
 
 ---
 
-✨ “Codar é como jogar: cada bug é só mais um chefão pra derrotar.”
 ✨ “Codar é como jogar: cada bug é só mais um chefão pra derrotar.”
