@@ -31,16 +31,16 @@
 ## 📊 Status no GitHub
 
 ![Jefferson GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonruan\&show_icons=true\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonruan&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonruan&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Bora trocar uma ideia?
 
-* ✉️ Email: **[jeffersonruan822@gmail.com](mailto:jeffersonruan822@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/jefferson-ruan](https://www.linkedin.com/in/jefferson-ruan-068255367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* 🎮 Se tiver jogo envolvido, tô dentro 😎
+[![Email](https://img.shields.io/badge/Email-jeffersonruan822%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeffersonruan822@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Ruan-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-ruan-068255367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
+✨ “Codar é como jogar: cada bug é só mais um chefão pra derrotar.”
 ✨ “Codar é como jogar: cada bug é só mais um chefão pra derrotar.”
