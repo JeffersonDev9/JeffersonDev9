@@ -9,11 +9,10 @@
 * 🔭 Desenvolvendo projetos em **C, Java e C++**
 * 🌱 Sempre aprendendo algo novo (às vezes na marra 😅)
 * 🎯 Objetivo: **criar, errar, aprender e melhorar**
-* 🎲 Fun fact: **o “Hello World” nunca falha, mas eu sim** 😂
 
 ---
 
-## 🛠️ Tecnologias que uso/brinco
+## 🛠️ Tecnologias e Habilidades
 
 💡 **Linguagens favoritas:**
 <p align="left">
@@ -32,6 +31,7 @@
 ## 📊 Status no GitHub
 
 ![Jefferson GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonruan\&show_icons=true\&theme=tokyonight)
+![Jefferson GitHub Stats](https://github-readme-streak.stats.herokuapp.com/?user=jeffersonruan\&show_icons=true\&theme=tokyonight)
 
 ---
 
