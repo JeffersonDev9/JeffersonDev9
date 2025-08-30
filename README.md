@@ -31,7 +31,7 @@
 ## 📊 Status no GitHub
 
 ![Jefferson GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonruan\&show_icons=true\&theme=tokyonight)
-![Jefferson GitHub Stats](https://github-readme-streak.stats.herokuapp.com/?user=jeffersonruan\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonruan&theme=tokyonight&hide_border=true)
 
 ---
 
