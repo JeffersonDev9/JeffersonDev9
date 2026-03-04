@@ -32,8 +32,6 @@
 🚧 Em construção...
 (Em breve projetos completos com Spring Boot + Docker + API REST)
 
-📊 Estatísticas no GitHub
-<p> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonruan&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonruan&layout=compact&theme=tokyonight"/> </p>
 📫 Contato
 <p> <a href="mailto:jeffersonruan822@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/jefferson-ruan-068255367/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> </p>
 🎮 Filosofia Dev
