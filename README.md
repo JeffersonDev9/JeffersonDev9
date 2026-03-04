@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-* 🔭 Desenvolvendo projetos em **C, Java e C++**
+* 🔭 Desenvolvendo projetos em **C, C++, Java e Springboot**
 * 🌱 Sempre aprendendo algo novo (às vezes na marra 😅)
 * 🎯 Objetivo: **criar, errar, aprender e melhorar**
 
